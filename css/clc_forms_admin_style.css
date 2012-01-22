@@ -1,0 +1,7 @@
+.fixed .column-max { width:15%; }
+.fixed .column-name, .fixed .column-label { width:40%; }
+
+.inline-editor-file fieldset.inline-edit-col-left { width:100%; float:left; clear:left; }
+
+#form-progress { bottom: 0; position: absolute; width: 92%; }
+.ui-progressbar-value { background-image: url(images/pbar-ani.gif); }
